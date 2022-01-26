@@ -1,3 +1,9 @@
 function helloworld() {
-  alert("Hello World!");
+  alert("Hello Teacher!");
+}
+function chatbox(){
+  alert("My chat");
+}
+function inputbox(){
+  alert("Hi");
 }
