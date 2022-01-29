@@ -3,16 +3,24 @@
   width: 400px;
   height: 100%;;
   margin: auto;
+  display: flex;
+  flex-direction: column;
 }
 
 .userlist {
+  flex: 1;
+  background-color: rgb(168, 105, 228);
 
 }
 
 .chat {
+  flex: 8;
+  background-color: rgb(219, 188, 188);
 
 }
 
 .inputbox {
+  flex: 1;
+  background-color: rgb(81, 81, 199);
   
 }
