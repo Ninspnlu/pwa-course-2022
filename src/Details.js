@@ -8,6 +8,6 @@ function Details(){
             <div className="info">status</div>
         </div>
 
-    )
+    )//update
 }
 export default Details;
